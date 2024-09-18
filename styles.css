@@ -1,0 +1,34 @@
+/* External CSS File: styles.css */
+
+/* General Styling for the Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+/* Styling for the External CSS Example */
+.external {
+    color: green;
+    font-size: 18px;
+}
+
+/* Styling for the Paragraph with a Border */
+.border {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #e7f3fe;
+}
+
+/* Styling for the Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
